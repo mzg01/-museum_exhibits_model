@@ -1,1 +1,1 @@
-# -museum_exhibits_model
+# museum_exhibits_model
